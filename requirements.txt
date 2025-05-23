@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+crewai
+openai
+langchain
+langchain-huggingface
+duckduckgo-search
+python-dotenv
+pydantic
+pysqlite3-binary
