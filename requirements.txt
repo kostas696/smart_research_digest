@@ -1,7 +1,6 @@
 fastapi
 uvicorn
 crewai
-openai
 langchain
 langchain-huggingface
 duckduckgo-search
